@@ -1,0 +1,22 @@
+{
+	id: "de340c4f-395d-42c7-a988-05a34977433b"
+	type: "player"
+	player_name: "merlanHD"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "merlanHD"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFEC"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [ ]
+	extra: { }
+}

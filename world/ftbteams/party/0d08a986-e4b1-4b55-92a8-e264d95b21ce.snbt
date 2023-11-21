@@ -1,0 +1,31 @@
+{
+	id: "0d08a986-e4b1-4b55-92a8-e264d95b21ce"
+	type: "party"
+	owner: "de340c4f-395d-42c7-a988-05a34977433b"
+	ranks: {
+		de340c4f-395d-42c7-a988-05a34977433b: "owner"
+		222b21ac-785c-475c-8c12-5346de3bb4c5: "officer"
+	}
+	properties: {
+		"ftbteams:display_name": "Tolles Team"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFEC"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1700251331230L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"merlanHD\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "de340c4f-395d-42c7-a988-05a34977433b", date: 1700251331243L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"kev500i\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1700251335291L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"kev500i\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "de340c4f-395d-42c7-a988-05a34977433b", date: 1700255642300L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"kev500i\"}]}" }
+		{ from: "de340c4f-395d-42c7-a988-05a34977433b", date: 1700255653394L, text: "{\"text\":\"pENIS\"}" }
+	]
+	extra: { }
+}
